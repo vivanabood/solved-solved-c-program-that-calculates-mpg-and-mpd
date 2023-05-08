@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-c-program-that-calculates-mpg-and-mpd
+<br>
+Write a mileage per Gallons and miles per dollar calculator program using two functions, one to calculate MPG and one to calculate MPD. The application will prompt the user to type the odm readings, number of gallons and the cost in US dollars for 5 trips.These odms, number of gallons and cost entries are stored in 3 matrices.After all data are taken the program displays the results (MPG and MPD)for each trip and shows a histogram of MPG and MPD
